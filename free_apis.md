@@ -49,3 +49,6 @@ These APIs serve as valuable resources for developers, enabling them to access d
 | [Systembolaget](https://api-portal.systembolaget.se/)                               | The API makes it possible for you to get information about government-owned liquor stores in Sweden.  |
 | [AmiiboAPI](https://amiiboapi.com/)                                    | An Amiibo database that holds all amiibo information. |
 | [MarvelAPI](https://developer.marvel.com/)                                   | The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago. |
+| [PolygonStockAPI](https://polygon.io/docs/stocks/)                      | An API for financial data like stocks, options, indices and currencies. |
+| [MusicBrainzAPI](https://musicbrainz.org/doc/MusicBrainz_API)       | An open-source database that collects information about music artists, releases, and tracks.|
+| [OpenBreweryAPI](https://www.openbrewerydb.org/documentation)        | Explore a comprehensive database of breweries, including details like beer types, addresses, and contact information.|
