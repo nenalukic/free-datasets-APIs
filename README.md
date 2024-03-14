@@ -24,7 +24,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Contact
 
-For any inquiries or comments about this repository, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nevenka-lukic/), follow and reach out on [Twitter](@nena_lukic), or subscribe and send your thoughts via my [Substack newsletter]https://datadamejourneys.substack.com/).
+For any inquiries or comments about this repository, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nevenka-lukic/), follow and reach out on [Twitter](@nena_lukic) or subscribe and send your thoughts via my [Substack newsletter](https://datadamejourneys.substack.com/).
 
 Your feedback and questions are always welcome!
 
