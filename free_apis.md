@@ -52,3 +52,10 @@ These APIs serve as valuable resources for developers, enabling them to access d
 | [PolygonStockAPI](https://polygon.io/docs/stocks/getting-started)                      | An API for financial data like stocks, options, indices and currencies. |
 | [MusicBrainzAPI](https://musicbrainz.org/doc/MusicBrainz_API)       | An open-source database that collects information about music artists, releases, and tracks.|
 | [OpenBreweryAPI](https://www.openbrewerydb.org/documentation)        | Explore a comprehensive database of breweries, including details like beer types, addresses, and contact information.|
+| [NASA Exoplanet API](https://exoplanetarchive.ipac.caltech.edu/docs/program_interfaces.html)                               | Access data about exoplanets discovered by NASA's Kepler and K2 missions.                                                                                    |
+| [OpenAQ API](https://docs.openaq.org/)                                      | Retrieve real-time and historical air quality data from locations around the world.                                                                          |
+| [OpenStreetMap API](https://wiki.openstreetmap.org/wiki/API)                                | Access open-source map data and perform geolocation services using OpenStreetMap.                                                                            |
+| [Bureau of Labor Statistics (BLS) API](https://www.bls.gov/developers/)            | Access labor market data and statistics from the US Department of Labor.                                                                                      |
+| [Wikimedia API](https://www.mediawiki.org/wiki/API:Main_page)                                   | Retrieve data from Wikimedia projects, including Wikipedia, Wiktionary, and Wikiquote.                                                                       |
+| [Bureau of Economic Analysis (BEA) API](https://www.bea.gov/API/bea_web_service_api_user_guide.htm)           | Access economic data and statistics for the United States from the BEA.                                                                                      |
+
