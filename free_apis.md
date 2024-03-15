@@ -58,4 +58,4 @@ These APIs serve as valuable resources for developers, enabling them to access d
 | [Bureau of Labor Statistics (BLS) API](https://www.bls.gov/developers/)            | Access labor market data and statistics from the US Department of Labor.                                                                                      |
 | [Wikimedia API](https://www.mediawiki.org/wiki/API:Main_page)                                   | Retrieve data from Wikimedia projects, including Wikipedia, Wiktionary, and Wikiquote.                                                                       |
 | [Bureau of Economic Analysis (BEA) API](https://www.bea.gov/API/bea_web_service_api_user_guide.htm)           | Access economic data and statistics for the United States from the BEA.                                                                                      |
-
+| [Companies House API](https://developer-specs.company-information.service.gov.uk/streaming-api/guides/overview) | The Companies House streaming API gives you access to realtime data changes of the information held at Companies House. |
